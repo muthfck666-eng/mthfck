@@ -1,3 +1,3 @@
 # mthfck
-//пошел на хуй.prg
+//GGY{{{{.prg
 Iplayyer
