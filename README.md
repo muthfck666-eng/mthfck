@@ -1,3 +1,3 @@
 # mthfck
-//пошел на хуй.pgt
+print("Hello, World!")
 Iplayyer
