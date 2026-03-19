@@ -1,3 +1,3 @@
 # mthfck
-print("Hello, World!")
+//пошел на хуй.prg
 Iplayyer
